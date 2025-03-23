@@ -5,6 +5,7 @@ from tkinter import ttk, messagebox
 # Dữ liệu đầu vào
 mon_hoc = []
 giang_vien = []
+sinh_vien = {}
 phong_hoc = []
 khoang_thoi_gian = []
 
